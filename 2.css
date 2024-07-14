@@ -160,7 +160,7 @@ img {
     color: var(--second-color);
     font-size: 1.5rem;
     cursor: pointer;
-    margin-left: 2rem;
+    margin-right: 5rem;
 }
 
 /* Active Menu */
