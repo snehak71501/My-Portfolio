@@ -25,7 +25,7 @@ CSS3
 Javascript
 
 # Demo 🎮
-You can try the login page live by visiting the [Demo](https://snehak71501.github.io/My-Portfolio/).
+You can visit my portfolio page  live by visiting the [Demo](https://snehak71501.github.io/My-Portfolio/).
 # Author 📣
 Sneha Bai 
 - Github: snehak71501
