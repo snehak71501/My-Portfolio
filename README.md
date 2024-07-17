@@ -4,9 +4,9 @@
 This portfolio showcases my skills and projects . It includes a collection of my work, highlighting my proficiency in Web developemnt and designing field.
 # Features ✨
 - Personal Information: Provides an overview of my background, education, and experience.
-*Projects: Displays various projects I've worked on, with detailed descriptions and live demos.
-+Skills: Highlights the technical and design skills I have acquired.
--Contact Information: Provides ways to get in touch with me for potential opportunities or collaborations.
+* Projects: Displays various projects I've worked on, with detailed descriptions and live demos.
++ Skills: Highlights the technical and design skills I have acquired.
+- Contact Information: Provides ways to get in touch with me for potential opportunities or collaborations.
 # How to Use 🚀
 1. Access the Portfolio: Visit the live demo URL.
 2. Navigate Through Sections: Explore the different sections to learn more about my skills, projects, and background.
